@@ -1,2 +1,3 @@
 # hello-world
 Just started learning GITHUB...
+Well, What to write here? I'm just trying to understand what these fancy names branching, committing in GITHUB mean to me!
